@@ -4,7 +4,6 @@ require_once 'core/bootstrap.php';
 // 根据用户的请求参数来决定加载哪个模块
 // 例如，如果请求参数 action=login，则加载用户登录视图
 // 如果请求参数 action=generate，则加载密码生成器视图
-// ...
 
 $action = $_GET['action'];
 
