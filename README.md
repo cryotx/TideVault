@@ -88,6 +88,5 @@ php -S localhost:8080 -t public
 本项目基于 [MIT License](LICENSE) 开源，您可以自由使用和修改。
 
 ---
-
 **TideVault** 希望成为您管理密码的最佳选择!
 ```
