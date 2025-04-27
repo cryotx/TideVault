@@ -81,7 +81,7 @@ php -S localhost:8080 -t public
 
 ## 社区支持
 
-有任何问题或建议？请 [提交 Issue](https://github.com/xiaoxiaodebai/TideVault/issues) 或加入我们的讨论。
+有任何问题或建议？请 [提交 Issue](https://github.com/cryotx/TideVault/issues) 或加入我们的讨论。
 
 ## 许可证
 
